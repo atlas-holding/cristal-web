@@ -1,6 +1,6 @@
-# ${{ values.name }}
+# cristal-web
 
-${{ values.description }}
+cristal-web service
 
 ## Stack
 - React 18 · Vite 5 · nginx
